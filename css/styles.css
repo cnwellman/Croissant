@@ -5,6 +5,7 @@ h1 {
 p {
   text-align: center;
   margin: 30px 10px;
+  font-style: oblique;
 }
 
 body {
@@ -18,7 +19,7 @@ footer {
 a {
   margin: 0px 10px;
   text-decoration: none;
-  color: black;
+  color: rgb(228, 164, 47);
 }
 
 a:hover {
