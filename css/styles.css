@@ -15,6 +15,21 @@ footer {
   text-align: center;
 }
 
+a {
+  margin: 0px 10px;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: rgb(102, 63, 128);
+  text-decoration: underline;
+}
+
+a:visited {
+  color: rgb(76, 42, 99);
+}
+
 img {
   display: block;
   width: 70%;
